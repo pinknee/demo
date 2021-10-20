@@ -17,9 +17,9 @@ public class FirstController {
         return "/index";
     }
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char sex = sc.next().charAt(0);
         System.out.println(sex);
-    }*/
+    }
 }
